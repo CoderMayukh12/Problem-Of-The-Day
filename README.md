@@ -28,46 +28,13 @@ Welcome to the **Problem of the Day Repository**! 🌟 Here, you'll find my dail
 ├── README.md                   # Repository overview
                     
 
----
+```
 
-## 🚀 Getting Started
-
-### Prerequisites
-To get started, ensure you have:
-- A modern C++/Python/Java environment for running solutions.
-
-### Running Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/problem-of-the-day-with-animations.git
-   ```
-2. Navigate to the desired folder (e.g., `GFG_Solutions`):
-   ```bash
-   cd GFG_Solutions
-   ```
-3. Run the code with your preferred environment.
-
-
----
-
-
-
----
-
-## 🤝 Contributions
-Contributions are welcome! Feel free to submit pull requests or open issues for suggestions.
-
-### Guidelines:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Submit a pull request with a clear description.
-
----
 
 
 ## 📧 Contact
 For queries or suggestions, feel free to reach out:
-- **Email**: bhowmikmayukh12.com
+- **Email**: bhowmikmayukh12@gmail.com
 - **LinkedIn**: [Mayukh Bhowmik](https://www.linkedin.com/in/mbwik/)
 
 ---
