@@ -1,5 +1,8 @@
-//Problem Link---> https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/?envType=daily-question&envId=2024-12-13
-// Optimal Approach:
+// Problem Link---> https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/?envType=daily-question&envId=2024-12-13
+//  Optimal Approach:
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution
 {
 public:
@@ -20,7 +23,9 @@ public:
 
         while (!pq.empty())
         {
-            auto [value, idx] = pq.top();
+            // auto &[int value, idx] = pq.top();
+            int value = pq.top().first;
+            int idx = pq.top().second;
             pq.pop();
 
             // Skip if already visited
