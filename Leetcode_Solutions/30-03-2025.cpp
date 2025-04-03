@@ -27,3 +27,7 @@ public:
         return partitionSizes;
     }
 };
+int main()
+{
+    return 0;
+}
